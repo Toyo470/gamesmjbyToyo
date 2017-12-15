@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hall/hall_02/game_btn/bt_cs_majiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,2},{279,89}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_ddz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1424,94},{277,88}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_gd_majiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1142,2},{279,88}}</string>
+				<key>offset</key>
+				<string>{4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_kawuxing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1425,2},{279,88}}</string>
+				<key>offset</key>
+				<string>{4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_majiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1705,94},{277,88}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_niuniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,95},{277,88}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_pdk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{576,2},{279,89}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_szkawuxing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,95},{277,88}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_xlsg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{287,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_xykawuxing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1142,94},{278,88}}</string>
+				<key>offset</key>
+				<string>{5,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_zhajinhua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1708,2},{279,88}}</string>
+				<key>offset</key>
+				<string>{4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+			<key>hall/hall_02/game_btn/bt_zz_majiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{859,2},{279,89}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{287,89}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>plist_btn.png</string>
+			<key>realTextureFileName</key>
+			<string>plist_btn.png</string>
+			<key>size</key>
+			<string>{1989,185}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1989</integer>
+			<key>height</key>
+			<integer>185</integer>
+		</dict>
+	</dict>
+</plist>

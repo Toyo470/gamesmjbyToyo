@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "code": "ddz",
+      "freeGamePhoto": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160530152112.jpg",
+      "gameId": 1,
+      "isFreeGame": 1,
+      "name": "斗地主",
+      "photo": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152059.jpg",
+      "playerCount": 0,
+      "remark": "",
+      "status": "2",
+      "type": 0,
+      "version": "1.1.23"
+    },
+    {
+      "code": "menji",
+      "danWinPoint": 0,
+      "freeGamePhoto": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160705111431.jpg",
+      "gameId": 22893153175812,
+      "isFreeGame": 0,
+      "name": "诈金花",
+      "photo": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160705110206.jpg",
+      "playerCount": 0,
+      "remark": "",
+      "status": "2",
+      "type": 0,
+      "version": "1.0.1"
+    },
+    {
+      "code": "majiang",
+      "danLosePoint": -8,
+      "danTiePoint": 0,
+      "danWinPoint": 10,
+      "freeGamePhoto": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160530152142.jpg",
+      "gameId": 4,
+      "isFreeGame": 1,
+      "name": "血战麻将",
+      "photo": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152134.jpg",
+      "playerCount": 0,
+      "remark": "",
+      "status": "2",
+      "type": 0,
+      "version": "1.1.11"
+    },
+    {
+      "code": "niuniu",
+      "freeGamePhoto": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160530152216.jpg",
+      "gameId": 5,
+      "isFreeGame": 1,
+      "name": "斗牛",
+      "photo": "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152208.jpg",
+      "playerCount": 0,
+      "remark": "",
+      "status": "2",
+      "type": 0,
+      "version": "1.1.6"
+    }
+  ],
+  "returnCode": "0"
+}

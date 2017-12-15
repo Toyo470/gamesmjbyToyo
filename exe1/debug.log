@@ -1,0 +1,4803 @@
+curr this cocos ver is cocos2d-x-3.14.1
+
+Quick-Cocos2d-x C++ support ready.
+
+[LUA-print] 
+********** 
+CCProgressTo was deprecated please use cc.ProgressTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCHide was deprecated please use cc.Hide instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionMoveInB was deprecated please use cc.TransitionMoveInB instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseSineIn was deprecated please use cc.EaseSineIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionMoveInL was deprecated please use cc.TransitionMoveInL instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseInOut was deprecated please use cc.EaseInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionMoveInT was deprecated please use cc.TransitionMoveInT instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionMoveInR was deprecated please use cc.TransitionMoveInR instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSnow was deprecated please use cc.ParticleSnow instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionCamera was deprecated please use cc.ActionCamera instead.
+**********
+
+[LUA-print] 
+********** 
+CCProgressFromTo was deprecated please use cc.ProgressFromTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCMoveTo was deprecated please use cc.MoveTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCJumpBy was deprecated please use cc.JumpBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCObject was deprecated please use cc.Object instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionRotoZoom was deprecated please use cc.TransitionRotoZoom instead.
+**********
+
+[LUA-print] 
+********** 
+CCDirector was deprecated please use cc.Director instead.
+**********
+
+[LUA-print] 
+********** 
+CCScheduler was deprecated please use cc.Scheduler instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseElasticOut was deprecated please use cc.EaseElasticOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTableViewCell was deprecated please use cc.TableViewCell instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBackOut was deprecated please use cc.EaseBackOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSystemQuad was deprecated please use cc.ParticleSystemQuad instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemToggle was deprecated please use cc.MenuItemToggle instead.
+**********
+
+[LUA-print] 
+********** 
+CCStopGrid was deprecated please use cc.StopGrid instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionScene was deprecated please use cc.TransitionScene instead.
+**********
+
+[LUA-print] 
+********** 
+CCSkewBy was deprecated please use cc.SkewBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCLayer was deprecated please use cc.Layer instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseElastic was deprecated please use cc.EaseElastic instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXTiledMap was deprecated please use cc.TMXTiledMap instead.
+**********
+
+[LUA-print] 
+********** 
+CCGrid3DAction was deprecated please use cc.Grid3DAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeIn was deprecated please use cc.FadeIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCNodeRGBA was deprecated please use cc.Node instead.
+**********
+
+[LUA-print] 
+********** 
+cc.NodeRGBA was deprecated please use cc.Node instead.
+**********
+
+[LUA-print] 
+********** 
+CCAnimationCache was deprecated please use cc.AnimationCache instead.
+**********
+
+[LUA-print] 
+********** 
+CCFlipY3D was deprecated please use cc.FlipY3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseSineInOut was deprecated please use cc.EaseSineInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFlipAngular was deprecated please use cc.TransitionFlipAngular instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseElasticInOut was deprecated please use cc.EaseElasticInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBounce was deprecated please use cc.EaseBounce instead.
+**********
+
+[LUA-print] 
+********** 
+CCShow was deprecated please use cc.Show instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeOut was deprecated please use cc.FadeOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCCallFunc was deprecated please use cc.CallFunc instead.
+**********
+
+[LUA-print] 
+********** 
+CCWaves3D was deprecated please use cc.Waves3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCFlipX3D was deprecated please use cc.FlipX3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleFireworks was deprecated please use cc.ParticleFireworks instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemImage was deprecated please use cc.MenuItemImage instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleFire was deprecated please use cc.ParticleFire instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItem was deprecated please use cc.MenuItem instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionEase was deprecated please use cc.ActionEase instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSceneOriented was deprecated please use cc.TransitionSceneOriented instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionZoomFlipAngular was deprecated please use cc.TransitionZoomFlipAngular instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseIn was deprecated please use cc.EaseIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseExponentialInOut was deprecated please use cc.EaseExponentialInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFlipX was deprecated please use cc.TransitionFlipX instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseExponentialOut was deprecated please use cc.EaseExponentialOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCLabel was deprecated please use cc.Label instead.
+**********
+
+[LUA-print] 
+********** 
+CCApplication was deprecated please use cc.Application instead.
+**********
+
+[LUA-print] 
+********** 
+CCDelayTime was deprecated please use cc.DelayTime instead.
+**********
+
+[LUA-print] 
+********** 
+CCLabelAtlas was deprecated please use cc.LabelAtlas instead.
+**********
+
+[LUA-print] 
+********** 
+CCLabelBMFont was deprecated please use cc.LabelBMFont instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeOutTRTiles was deprecated please use cc.FadeOutTRTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseElasticIn was deprecated please use cc.EaseElasticIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSpiral was deprecated please use cc.ParticleSpiral instead.
+**********
+
+[LUA-print] 
+********** 
+CCFiniteTimeAction was deprecated please use cc.FiniteTimeAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeOutDownTiles was deprecated please use cc.FadeOutDownTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCJumpTiles3D was deprecated please use cc.JumpTiles3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBackIn was deprecated please use cc.EaseBackIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCSpriteBatchNode was deprecated please use cc.SpriteBatchNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSystem was deprecated please use cc.ParticleSystem instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionTween was deprecated please use cc.ActionTween instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFadeDown was deprecated please use cc.TransitionFadeDown instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSun was deprecated please use cc.ParticleSun instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressHorizontal was deprecated please use cc.TransitionProgressHorizontal instead.
+**********
+
+[LUA-print] 
+********** 
+CCRipple3D was deprecated please use cc.Ripple3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXLayer was deprecated please use cc.TMXLayer instead.
+**********
+
+[LUA-print] 
+********** 
+CCFlipX was deprecated please use cc.FlipX instead.
+**********
+
+[LUA-print] 
+********** 
+CCFlipY was deprecated please use cc.FlipY instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSplitCols was deprecated please use cc.TransitionSplitCols instead.
+**********
+
+[LUA-print] 
+********** 
+CCTimer was deprecated please use cc.Timer instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeTo was deprecated please use cc.FadeTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCRepeatForever was deprecated please use cc.RepeatForever instead.
+**********
+
+[LUA-print] 
+********** 
+CCPlace was deprecated please use cc.Place instead.
+**********
+
+[LUA-print] 
+********** 
+CCGLProgram was deprecated please use cc.GLProgram instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBounceOut was deprecated please use cc.EaseBounceOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCCardinalSplineBy was deprecated please use cc.CardinalSplineBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCSpriteFrameCache was deprecated please use cc.SpriteFrameCache instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionShrinkGrow was deprecated please use cc.TransitionShrinkGrow instead.
+**********
+
+[LUA-print] 
+********** 
+CCSplitCols was deprecated please use cc.SplitCols instead.
+**********
+
+[LUA-print] 
+********** 
+CCClippingNode was deprecated please use cc.ClippingNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBounceInOut was deprecated please use cc.EaseBounceInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCLiquid was deprecated please use cc.Liquid instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleFlower was deprecated please use cc.ParticleFlower instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleSmoke was deprecated please use cc.ParticleSmoke instead.
+**********
+
+[LUA-print] 
+********** 
+CCImage was deprecated please use cc.Image instead.
+**********
+
+[LUA-print] 
+********** 
+CCTurnOffTiles was deprecated please use cc.TurnOffTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCBlink was deprecated please use cc.Blink instead.
+**********
+
+[LUA-print] 
+********** 
+CCShaderCache was deprecated please use cc.ShaderCache instead.
+**********
+
+[LUA-print] 
+********** 
+CCJumpTo was deprecated please use cc.JumpTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCAtlasNode was deprecated please use cc.AtlasNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionJumpZoom was deprecated please use cc.TransitionJumpZoom instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressVertical was deprecated please use cc.TransitionProgressVertical instead.
+**********
+
+[LUA-print] 
+********** 
+CCAnimationFrame was deprecated please use cc.AnimationFrame instead.
+**********
+
+[LUA-print] 
+********** 
+CCTintTo was deprecated please use cc.TintTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTiledGrid3DAction was deprecated please use cc.TiledGrid3DAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXTilesetInfo was deprecated please use cc.TMXTilesetInfo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXObjectGroup was deprecated please use cc.TMXObjectGroup instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleGalaxy was deprecated please use cc.ParticleGalaxy instead.
+**********
+
+[LUA-print] 
+********** 
+CCTwirl was deprecated please use cc.Twirl instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemLabel was deprecated please use cc.MenuItemLabel instead.
+**********
+
+[LUA-print] 
+********** 
+CCLayerColor was deprecated please use cc.LayerColor instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeOutBLTiles was deprecated please use cc.FadeOutBLTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgress was deprecated please use cc.TransitionProgress instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseRateAction was deprecated please use cc.EaseRateAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCLayerGradient was deprecated please use cc.LayerGradient instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemSprite was deprecated please use cc.MenuItemSprite instead.
+**********
+
+[LUA-print] 
+********** 
+CCNode was deprecated please use cc.Node instead.
+**********
+
+[LUA-print] 
+********** 
+CCToggleVisibility was deprecated please use cc.ToggleVisibility instead.
+**********
+
+[LUA-print] 
+********** 
+CCRepeat was deprecated please use cc.Repeat instead.
+**********
+
+[LUA-print] 
+********** 
+CCRenderTexture was deprecated please use cc.RenderTexture instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFlipY was deprecated please use cc.TransitionFlipY instead.
+**********
+
+[LUA-print] 
+********** 
+CCLayerMultiplex was deprecated please use cc.LayerMultiplex instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXLayerInfo was deprecated please use cc.TMXLayerInfo instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBackInOut was deprecated please use cc.EaseBackInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionInstant was deprecated please use cc.ActionInstant instead.
+**********
+
+[LUA-print] 
+********** 
+CCTargetedAction was deprecated please use cc.TargetedAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCDrawNode was deprecated please use cc.DrawNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionTurnOffTiles was deprecated please use cc.TransitionTurnOffTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCRotateTo was deprecated please use cc.RotateTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSplitRows was deprecated please use cc.TransitionSplitRows instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressRadialCCW was deprecated please use cc.TransitionProgressRadialCCW instead.
+**********
+
+[LUA-print] 
+********** 
+CCScaleTo was deprecated please use cc.ScaleTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionPageTurn was deprecated please use cc.TransitionPageTurn instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleExplosion was deprecated please use cc.ParticleExplosion instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenu was deprecated please use cc.Menu instead.
+**********
+
+[LUA-print] 
+********** 
+CCTexture2D was deprecated please use cc.Texture2D instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionManager was deprecated please use cc.ActionManager instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleBatchNode was deprecated please use cc.ParticleBatchNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionZoomFlipX was deprecated please use cc.TransitionZoomFlipX instead.
+**********
+
+[LUA-print] 
+********** 
+CCScaleBy was deprecated please use cc.ScaleBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCTileMapAtlas was deprecated please use cc.TileMapAtlas instead.
+**********
+
+[LUA-print] 
+********** 
+CCAction was deprecated please use cc.Action instead.
+**********
+
+[LUA-print] 
+********** 
+CCLens3D was deprecated please use cc.Lens3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCAnimation was deprecated please use cc.Animation instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSlideInT was deprecated please use cc.TransitionSlideInT instead.
+**********
+
+[LUA-print] 
+********** 
+CCSpawn was deprecated please use cc.Spawn instead.
+**********
+
+[LUA-print] 
+********** 
+CCSet was deprecated please use cc.Set instead.
+**********
+
+[LUA-print] 
+********** 
+CCShakyTiles3D was deprecated please use cc.ShakyTiles3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCPageTurn3D was deprecated please use cc.PageTurn3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCGrid3D was deprecated please use cc.Grid3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressInOut was deprecated please use cc.TransitionProgressInOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFadeBL was deprecated please use cc.TransitionFadeBL instead.
+**********
+
+[LUA-print] 
+********** 
+CCCamera was deprecated please use cc.Camera instead.
+**********
+
+[LUA-print] 
+********** 
+CCLayerRGBA was deprecated please use cc.Layer instead.
+**********
+
+[LUA-print] 
+********** 
+cc.LayerRGBA was deprecated please use cc.Layer instead.
+**********
+
+[LUA-print] 
+********** 
+CCBezierTo was deprecated please use cc.BezierTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCFollow was deprecated please use cc.Follow instead.
+**********
+
+[LUA-print] 
+********** 
+CCTintBy was deprecated please use cc.TintBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCActionInterval was deprecated please use cc.ActionInterval instead.
+**********
+
+[LUA-print] 
+********** 
+CCAnimate was deprecated please use cc.Animate instead.
+**********
+
+[LUA-print] 
+********** 
+CCProgressTimer was deprecated please use cc.ProgressTimer instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleMeteor was deprecated please use cc.ParticleMeteor instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFadeTR was deprecated please use cc.TransitionFadeTR instead.
+**********
+
+[LUA-print] 
+********** 
+CCCatmullRomTo was deprecated please use cc.CatmullRomTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionZoomFlipY was deprecated please use cc.TransitionZoomFlipY instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionCrossFade was deprecated please use cc.TransitionCrossFade instead.
+**********
+
+[LUA-print] 
+********** 
+CCGridBase was deprecated please use cc.GridBase instead.
+**********
+
+[LUA-print] 
+********** 
+CCSkewTo was deprecated please use cc.SkewTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCCardinalSplineTo was deprecated please use cc.CardinalSplineTo instead.
+**********
+
+[LUA-print] 
+********** 
+CCTMXMapInfo was deprecated please use cc.TMXMapInfo instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseExponentialIn was deprecated please use cc.EaseExponentialIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCReuseGrid was deprecated please use cc.ReuseGrid instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemAtlasFont was deprecated please use cc.MenuItemAtlasFont instead.
+**********
+
+[LUA-print] 
+********** 
+CCSpriteFrame was deprecated please use cc.SpriteFrame instead.
+**********
+
+[LUA-print] 
+********** 
+CCSplitRows was deprecated please use cc.SplitRows instead.
+**********
+
+[LUA-print] 
+********** 
+CCSprite was deprecated please use cc.Sprite instead.
+**********
+
+[LUA-print] 
+********** 
+CCOrbitCamera was deprecated please use cc.OrbitCamera instead.
+**********
+
+[LUA-print] 
+********** 
+CCUserDefault was deprecated please use cc.UserDefault instead.
+**********
+
+[LUA-print] 
+********** 
+CCFadeOutUpTiles was deprecated please use cc.FadeOutUpTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCParticleRain was deprecated please use cc.ParticleRain instead.
+**********
+
+[LUA-print] 
+********** 
+CCWaves was deprecated please use cc.Waves instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseOut was deprecated please use cc.EaseOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseBounceIn was deprecated please use cc.EaseBounceIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCMenuItemFont was deprecated please use cc.MenuItemFont instead.
+**********
+
+[LUA-print] 
+********** 
+CCEaseSineOut was deprecated please use cc.EaseSineOut instead.
+**********
+
+[LUA-print] 
+********** 
+CCTextureCache was deprecated please use cc.TextureCache instead.
+**********
+
+[LUA-print] 
+********** 
+CCTiledGrid3D was deprecated please use cc.TiledGrid3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCRemoveSelf was deprecated please use cc.RemoveSelf instead.
+**********
+
+[LUA-print] 
+********** 
+CCLabelTTF was deprecated please use cc.LabelTTF instead.
+**********
+
+[LUA-print] 
+********** 
+CCTouch was deprecated please use cc.Touch instead.
+**********
+
+[LUA-print] 
+********** 
+CCMoveBy was deprecated please use cc.MoveBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCMotionStreak was deprecated please use cc.MotionStreak instead.
+**********
+
+[LUA-print] 
+********** 
+CCRotateBy was deprecated please use cc.RotateBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCFileUtils was deprecated please use cc.FileUtils instead.
+**********
+
+[LUA-print] 
+********** 
+CCBezierBy was deprecated please use cc.BezierBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFade was deprecated please use cc.TransitionFade instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressOutIn was deprecated please use cc.TransitionProgressOutIn instead.
+**********
+
+[LUA-print] 
+********** 
+CCCatmullRomBy was deprecated please use cc.CatmullRomBy instead.
+**********
+
+[LUA-print] 
+********** 
+CCGridAction was deprecated please use cc.GridAction instead.
+**********
+
+[LUA-print] 
+********** 
+CCShaky3D was deprecated please use cc.Shaky3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionEaseScene was deprecated please use cc.TransitionEaseScene instead.
+**********
+
+[LUA-print] 
+********** 
+CCSequence was deprecated please use cc.Sequence instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionFadeUp was deprecated please use cc.TransitionFadeUp instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionProgressRadialCW was deprecated please use cc.TransitionProgressRadialCW instead.
+**********
+
+[LUA-print] 
+********** 
+CCShuffleTiles was deprecated please use cc.ShuffleTiles instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSlideInR was deprecated please use cc.TransitionSlideInR instead.
+**********
+
+[LUA-print] 
+********** 
+CCScene was deprecated please use cc.Scene instead.
+**********
+
+[LUA-print] 
+********** 
+CCParallaxNode was deprecated please use cc.ParallaxNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSlideInL was deprecated please use cc.TransitionSlideInL instead.
+**********
+
+[LUA-print] 
+********** 
+CCWavesTiles3D was deprecated please use cc.WavesTiles3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCTransitionSlideInB was deprecated please use cc.TransitionSlideInB instead.
+**********
+
+[LUA-print] 
+********** 
+CCSpeed was deprecated please use cc.Speed instead.
+**********
+
+[LUA-print] 
+********** 
+CCShatteredTiles3D was deprecated please use cc.ShatteredTiles3D instead.
+**********
+
+[LUA-print] 
+********** 
+CCCallFuncN was deprecated please use cc.CallFunc instead.
+**********
+
+[LUA-print] 
+********** 
+CCEGLViewProtocol was deprecated please use cc.GLViewProtocol instead.
+**********
+
+[LUA-print] 
+********** 
+CCEGLView was deprecated please use cc.GLView instead.
+**********
+
+[LUA-print] 
+********** 
+XMLHttpRequest was deprecated please use cc.XMLHttpRequest instead.
+**********
+
+[LUA-print] 
+********** 
+cc.EGLViewProtocol was deprecated please use cc.GLViewProtocol instead.
+**********
+
+[LUA-print] 
+********** 
+cc.EGLView was deprecated please use cc.GLView instead.
+**********
+
+[LUA-print] 
+********** 
+cc.EGLView was deprecated please use cc.GLView instead.
+**********
+
+[LUA-print] table: 0x040db788
+
+[LUA-print] 
+********** 
+cc.ShaderCache was deprecated please use cc.GLProgramCache instead.
+**********
+
+[LUA-print] 
+********** 
+CCDrawPrimitives was deprecated please use cc.DrawPrimitives instead.
+**********
+
+[LUA-print] 
+********** 
+CCArmature was deprecated please use ccs.Armature instead.
+**********
+
+[LUA-print] 
+********** 
+CCArmatureAnimation was deprecated please use ccs.ArmatureAnimation instead.
+**********
+
+[LUA-print] 
+********** 
+CCSkin was deprecated please use ccs.Skin instead.
+**********
+
+[LUA-print] 
+********** 
+CCBone was deprecated please use ccs.Bone instead.
+**********
+
+[LUA-print] 
+********** 
+CCArmatureDataManager was deprecated please use ccs.ArmatureDataManager instead.
+**********
+
+[LUA-print] 
+********** 
+CCBatchNode was deprecated please use ccs.BatchNode instead.
+**********
+
+[LUA-print] 
+********** 
+CCTween was deprecated please use ccs.Tween instead.
+**********
+
+[LUA-print] 
+********** 
+CCBaseData was deprecated please use ccs.BaseData instead.
+**********
+
+[LUA-print] 
+********** 
+CCDisplayManager was deprecated please use ccs.DisplayManager instead.
+**********
+
+[LUA-print] 
+********** 
+UIHelper was deprecated please use ccs.UIHelper instead.
+**********
+
+[LUA-print] 
+********** 
+UILayout was deprecated please use ccs.UILayout instead.
+**********
+
+[LUA-print] 
+********** 
+UIWidget was deprecated please use ccs.UIWidget instead.
+**********
+
+[LUA-print] 
+********** 
+UILayer was deprecated please use ccs.UILayer instead.
+**********
+
+[LUA-print] 
+********** 
+UIButton was deprecated please use ccs.UIButton instead.
+**********
+
+[LUA-print] 
+********** 
+UICheckBox was deprecated please use ccs.UICheckBox instead.
+**********
+
+[LUA-print] 
+********** 
+UIImageView was deprecated please use ccs.UIImageView instead.
+**********
+
+[LUA-print] 
+********** 
+UILabel was deprecated please use ccs.UILabel instead.
+**********
+
+[LUA-print] 
+********** 
+UILabelAtlas was deprecated please use ccs.UILabelAtlas instead.
+**********
+
+[LUA-print] 
+********** 
+UILabelBMFont was deprecated please use ccs.UILabelBMFont instead.
+**********
+
+[LUA-print] 
+********** 
+UILoadingBar was deprecated please use ccs.UILoadingBar instead.
+**********
+
+[LUA-print] 
+********** 
+UISlider was deprecated please use ccs.UISlider instead.
+**********
+
+[LUA-print] 
+********** 
+UITextField was deprecated please use ccs.UITextField instead.
+**********
+
+[LUA-print] 
+********** 
+UIScrollView was deprecated please use ccs.UIScrollView instead.
+**********
+
+[LUA-print] 
+********** 
+UIPageView was deprecated please use ccs.UIPageView instead.
+**********
+
+[LUA-print] 
+********** 
+UIListView was deprecated please use ccs.UIListView instead.
+**********
+
+[LUA-print] 
+********** 
+UILayoutParameter was deprecated please use ccs.UILayoutParameter instead.
+**********
+
+[LUA-print] 
+********** 
+UILinearLayoutParameter was deprecated please use ccs.UILinearLayoutParameter instead.
+**********
+
+[LUA-print] 
+********** 
+UIRelativeLayoutParameter was deprecated please use ccs.UIRelativeLayoutParameter instead.
+**********
+
+[LUA-print] 
+********** 
+CCComController was deprecated please use ccs.ComController instead.
+**********
+
+[LUA-print] 
+********** 
+CCComAudio was deprecated please use ccs.ComAudio instead.
+**********
+
+[LUA-print] 
+********** 
+CCComAttribute was deprecated please use ccs.ComAttribute instead.
+**********
+
+[LUA-print] 
+********** 
+CCComRender was deprecated please use ccs.ComRender instead.
+**********
+
+[LUA-print] 
+********** 
+ActionManager was deprecated please use ccs.ActionManagerEx instead.
+**********
+
+[LUA-print] 
+********** 
+SceneReader was deprecated please use ccs.SceneReader instead.
+**********
+
+[LUA-print] 
+********** 
+GUIReader was deprecated please use ccs.GUIReader instead.
+**********
+
+[LUA-print] 
+********** 
+UIRootWidget was deprecated please use ccs.UIRootWidget instead.
+**********
+
+[LUA-print] 
+********** 
+ActionObject was deprecated please use ccs.ActionObject instead.
+**********
+
+[LUA-print] 
+********** 
+CCBReader was deprecated please use cc.BReader instead.
+**********
+
+[LUA-print] 
+********** 
+CCBAnimationManager was deprecated please use cc.BAnimationManager instead.
+**********
+
+[LUA-print] 
+********** 
+CCBProxy was deprecated please use cc.CCBProxy instead.
+**********
+
+[LUA-print] 
+********** 
+SimpleAudioEngine was deprecated please use cc.SimpleAudioEngine instead.
+**********
+
+[LUA-print] 
+********** 
+CCControl was deprecated please use cc.Control instead.
+**********
+
+[LUA-print] 
+********** 
+CCScrollView was deprecated please use cc.ScrollView instead.
+**********
+
+[LUA-print] 
+********** 
+CCTableView was deprecated please use cc.TableView instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlPotentiometer was deprecated please use cc.ControlPotentiometer instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlStepper was deprecated please use cc.ControlStepper instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlHuePicker was deprecated please use cc.ControlHuePicker instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlSlider was deprecated please use cc.ControlSlider instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlSaturationBrightnessPicker was deprecated please use cc.ControlSaturationBrightnessPicker instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlSwitch was deprecated please use cc.ControlSwitch instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlButton was deprecated please use cc.ControlButton instead.
+**********
+
+[LUA-print] 
+********** 
+CCControlColourPicker was deprecated please use cc.ControlColourPicker instead.
+**********
+
+[LUA-print] 
+********** 
+CCEditBox was deprecated please use ccui.EditBox instead.
+**********
+
+[LUA-print] 
+********** 
+cc.EditBox was deprecated please use ccui.EditBox instead.
+**********
+
+[LUA-print] 
+********** 
+CCScale9Sprite was deprecated please use ccui.Scale9Sprite instead.
+**********
+
+[LUA-print] 
+********** 
+cc.Scale9Sprite was deprecated please use ccui.Scale9Sprite instead.
+**********
+
+[LUA-print] 
+********** 
+WebSocket was deprecated please use cc.WebSocket instead.
+**********
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] display_scene	app.scenes.MainScene
+
+[LUA-print] MainScene:onEnter
+
+[LUA-print] display_scene	hall.loginGame
+
+[LUA-print] dump from: [string ".\hall/loginGame.lua"]:36: in function 'ctor'
+
+[LUA-print] - "-----hallScene-----" = "初始化"
+
+[LUA-print] 这里用的是久的loginGame
+
+[LUA-print] GameSetting||music state:true
+
+[LUA-print] GameSetting||sound state:true
+
+[LUA-print] GameSetting||shcok state:true
+
+[LUA-print] InitData sound_slide	1
+
+[LUA-print] InitData music_slide	1
+
+[LUA-print] dump from: [string ".\hall/loginGame.lua"]:69: in function 'ctor'
+
+[LUA-print] - "tableData" = {
+
+[LUA-print] -     "init_cfg" = {
+
+[LUA-print] -         "UID"         = "10454"
+
+[LUA-print] -         "consolePort" = 6050
+
+[LUA-print] -         "entry"       = "src/main.lua"
+
+[LUA-print] -         "height"      = 270
+
+[LUA-print] -         "isLandscape" = false
+
+[LUA-print] -         "isWindowTop" = false
+
+[LUA-print] -         "name"        = "TEST2"
+
+[LUA-print] -         "projectDic"  = ""
+
+[LUA-print] -         "uploadPort"  = 6060
+
+[LUA-print] -         "width"       = 480
+
+[LUA-print] -     }
+
+[LUA-print] -     "simulator_screen_size" = {
+
+[LUA-print] -         1 = {
+
+[LUA-print] -             "height" = 320
+
+[LUA-print] -             "title"  = "iPhone 3Gs (480x320)"
+
+[LUA-print] -             "width"  = 480
+
+[LUA-print] -         }
+
+[LUA-print] -         2 = {
+
+[LUA-print] -             "height" = 640
+
+[LUA-print] -             "title"  = "iPhone 4 (960x640)"
+
+[LUA-print] -             "width"  = 960
+
+[LUA-print] -         }
+
+[LUA-print] -         3 = {
+
+[LUA-print] -             "height" = 640
+
+[LUA-print] -             "title"  = "iPhone 5 (1136x640)"
+
+[LUA-print] -             "width"  = 1136
+
+[LUA-print] -         }
+
+[LUA-print] -         4 = {
+
+[LUA-print] -             "height" = 768
+
+[LUA-print] -             "title"  = "iPad (1024x768)"
+
+[LUA-print] -             "width"  = 1024
+
+[LUA-print] -         }
+
+[LUA-print] -         5 = {
+
+[LUA-print] -             "height" = 1536
+
+[LUA-print] -             "title"  = "iPad Retina (2048x1536)"
+
+[LUA-print] -             "width"  = 2048
+
+[LUA-print] -         }
+
+[LUA-print] -         6 = {
+
+[LUA-print] -             "height" = 480
+
+[LUA-print] -             "title"  = "Android (800x480)"
+
+[LUA-print] -             "width"  = 800
+
+[LUA-print] -         }
+
+[LUA-print] -         7 = {
+
+[LUA-print] -             "height" = 480
+
+[LUA-print] -             "title"  = "Android (854x480)"
+
+[LUA-print] -             "width"  = 854
+
+[LUA-print] -         }
+
+[LUA-print] -         8 = {
+
+[LUA-print] -             "height" = 720
+
+[LUA-print] -             "title"  = "Android (1280x720)"
+
+[LUA-print] -             "width"  = 1280
+
+[LUA-print] -         }
+
+[LUA-print] -         9 = {
+
+[LUA-print] -             "height" = 1080
+
+[LUA-print] -             "title"  = "Android (1920x1080)"
+
+[LUA-print] -             "width"  = 1920
+
+[LUA-print] -         }
+
+[LUA-print] -     }
+
+[LUA-print] - }
+
+[LUA-print] GameCommon:showLoadingTips
+
+[LUA-print] 10454	bm.jsonData.UID;
+
+[LUA-print] 请求地址：	http://101.37.68.57/hbiInterface/playerUser/getUserInfo4GameServer
+
+[LUA-print] 当前登录的用户Id：	10454
+
+[LUA-print] dump from: [string ".\httpReq.lua"]:100: in function 'httpReq1'
+
+[LUA-print] - "<var>" = {
+
+[LUA-print] -     "userId" = 10454
+
+[LUA-print] - }
+
+[LUA-print] send http require	http://101.37.68.57/hbiInterface/playerUser/getUserInfo4GameServer?userId=10454&
+
+In the constructor of HttpClient!
+
+[LUA-print] dump from: [string ".\hall/iosHelps.lua"]:536: in function 'callBack'
+
+[LUA-print] - "-----请求PHP登录验证返回-----" = {
+
+[LUA-print] -     "data" = {
+
+[LUA-print] -         "everydayLoginSendCard" = 0
+
+[LUA-print] -         "hall" = {
+
+[LUA-print] -             "id"     = 3
+
+[LUA-print] -             "ip"     = "101.37.68.57"
+
+[LUA-print] -             "name"   = "大厅3"
+
+[LUA-print] -             "port"   = "4700"
+
+[LUA-print] -             "status" = 1
+
+[LUA-print] -         }
+
+[LUA-print] -         "isFirstLogin"          = 1
+
+[LUA-print] -         "mtKey"                 = "123456"
+
+[LUA-print] -         "playerProfile" = {
+
+[LUA-print] -             "account"        = "930140"
+
+[LUA-print] -             "cardCount"      = 8
+
+[LUA-print] -             "coinAmount"     = 0
+
+[LUA-print] -             "grade"          = 0
+
+[LUA-print] -             "hasBindPhone"   = false
+
+[LUA-print] -             "hasPayPassword" = false
+
+[LUA-print] -             "jewelAmount"    = 0
+
+[LUA-print] -             "nickName"       = "周营"
+
+[LUA-print] -             "onlineStatus"   = "1"
+
+[LUA-print] -             "phone"          = "930140"
+
+[LUA-print] -             "photoUrl"       = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw/0"
+
+[LUA-print] -             "promoCode"      = "930140"
+
+[LUA-print] -             "sex"            = "1"
+
+[LUA-print] -             "status"         = "1"
+
+[LUA-print] -             "userId"         = "10454"
+
+[LUA-print] -             "wealth"         = 0
+
+[LUA-print] -         }
+
+[LUA-print] -         "yaoqingRoomcards"      = 0
+
+[LUA-print] -     }
+
+[LUA-print] -     "returnCode" = "0"
+
+[LUA-print] - }
+
+[LUA-print] 当前场景:hall.loginGame
+
+[LUA-print] Http登录验证进入:10454
+
+[LUA-print] Http登录验证转换:1
+
+[LUA-print] 当前mtkey:123456
+
+[LUA-print] dump from: [string ".\hall/loginGame.lua"]:127: in function 'HttpLogin'
+
+[LUA-print] - "-----大厅信息-----" = {
+
+[LUA-print] -     "id"     = 3
+
+[LUA-print] -     "ip"     = "101.37.68.57"
+
+[LUA-print] -     "name"   = "大厅3"
+
+[LUA-print] -     "port"   = "4700"
+
+[LUA-print] -     "status" = 1
+
+[LUA-print] - }
+
+[LUA-print] hall ip:101.37.68.57
+
+[LUA-print] hall port:4700
+
+[LUA-print] HttpLoadGame gold:0
+
+[LUA-print] gold:0
+
+[LUA-print] dump from: [string ".\hall/loginGame.lua"]:173: in function 'HttpLogin'
+
+[LUA-print] - "-----用户性别-----" = 1
+
+[LUA-print] dump from: [string ".\hall/loginGame.lua"]:196: in function 'connectSocket'
+
+[LUA-print] - "-----连接Socket hall_ip-----" = "101.37.68.57"
+
+[LUA-print] GameCommon:showLoadingTips
+
+[LUA-print] connect----------------
+
+[LUA-print] connect in ----------------
+
+[LUA-print] [INFO] HallServer.connect(101.37.68.57, 4700)
+
+[LUA-print] [INFO] HallServer._onConnectd
+
+[LUA-print] NEO [%d] onConnected. %s	nil	SOCKET_TCP_CONNECTED
+
+[LUA-print] protocol_name--------------	HALL_PROTOCOL_EX	----PROTOCOL.HALL_PROTOCOL_EX--------	HALL_PROTOCOL_EX
+
+[LUA-print] dump from: [string ".\hall/HallServer.lua"]:34: in function 'onAfterConnected'
+
+[LUA-print] - "-----重连完成-----" = "protocol_name是HALL_PROTOCOL_EX"
+
+[LUA-print] -----Socket登录游戏大厅   HallServer:LoginGame--116---
+
+[LUA-print] dump from: [string ".\hall/HallServer.lua"]:98: in function 'LoginHall'
+
+[LUA-print] - "-----用户信息-----" = {
+
+[LUA-print] -     "diamond"   = 0
+
+[LUA-print] -     "gold"      = 0
+
+[LUA-print] -     "icon_url"  = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw/0"
+
+[LUA-print] -     "nick"      = "周营"
+
+[LUA-print] -     "pLevel"    = 100
+
+[LUA-print] -     "phone"     = "930140"
+
+[LUA-print] -     "sex"       = 1
+
+[LUA-print] -     "type"      = "P"
+
+[LUA-print] -     "uid"       = 10454
+
+[LUA-print] -     "user_info" = "{"sex":"1","photoUrl":"http:\/\/wx.qlogo.cn\/mmhead\/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw\/0","money":0,"nickName":"周营"}"
+
+[LUA-print] - }
+
+[LUA-print] build cmd:%x header lenght:%d	278	18
+
+[LUA-print] -----------------------------build packet body	nil
+
+[LUA-print] BUILD PACKET ==> %x(%s) [%s]	278	181	00 00 00 B1 42 59 00 01 00 00 01 16 00 00 00 00 00 00 00 00 28 D6 00 00 00 01 00 00 00 01 00 00 00 93 7B 22 73 65 78 22 3A 22 31 22 2C 22 70 68 6F 74 6F 55 72 6C 22 3A 22 68 74 74 70 3A 5C 2F 5C 2F 77 78 2E 71 6C 6F 67 6F 2E 63 6E 5C 2F 6D 6D 68 65 61 64 5C 2F 51 33 61 75 48 67 7A 77 7A 4D 37 72 41 79 4C 53 41 65 39 49 34 42 76 50 44 43 35 33 69 61 78 69 63 53 46 70 53 69 63 43 56 48 5A 78 67 54 71 4A 67 31 34 69 63 4B 6A 65 42 77 5C 2F 30 22 2C 22 6D 6F 6E 65 79 22 3A 30 2C 22 6E 69 63 6B 4E 61 6D 65 22 3A 22 E5 91 A8 E8 90 A5 22 7D 00 	181
+
+[LUA-print] 加密包体
+
+[LUA-print] GameCommon:showLoadingTips
+
+[LUA-print] decrypt success
+
+[LUA-print] #[PACK_PARSE] len:118 [00 00 00 72 42 59 00 00 00 00 02 01 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 FF FF 00 00 00 00 00 00 00 00 08 00 00 00 15 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 0D 00 00 00 00 00 00 00 0E 00 00 00 00 00 00 00 0F 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 28 00 00 00 00 00 00 00 29 00 00 00 00 ]
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	19	22	4	Ver	1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	23	26	4	Levelcount	0
+
+[LUA-print] [parsePacket_]array fixedLength:%d	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	27	26	0	Usercount	[]
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	27	30	4	Friendcount	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	31	34	4	Tid	0
+
+[LUA-print] read data string pos:%d	35
+
+[LUA-print] read data string len:%d	1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	35	39	5	Ip	
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	40	43	4	port	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	44	45	2	Serverlevel	-1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	46	49	4	on_look_user	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	50	53	4	type	0
+
+[LUA-print] buf len: 118 pos:54
+
+[LUA-print] 83	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] NEO[====PACK====][%x][%s]
+==>%s	513	SVR_LOGIN_OK	{"Ver":1,"Usercount":[],"Serverlevel":-1,"Levelcount":0,"Ip":"","Friendcount":0,"Tid":0,"type":0,"cmd":513,"on_look_user":0,"port":0}
+
+[LUA-print] -----登录成功 mode[%d]-----	nil
+
+[LUA-print] 	-----Socket返回登录成功，进入大厅-----	false
+
+[LUA-print] GameCommon:landLoading false
+
+HTTPRequest[0x0001] - create request with url: http://101.37.68.57/game-web//front/player/selectAgentCodeFromPlayId?playerId=10454&
+
+HTTPRequest[0x0002] - create request with url: http://101.37.68.57/hbiInterface/roomCard/queryRoomCardCount
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:110: in function 'land'
+
+[LUA-print] - "-----获取游戏列表-----" = "http://101.37.68.57/hbiInterface/game/hallLoading"
+
+[LUA-print] content size:0
+
+HTTPRequest[0x0003] - create request with url: http://101.37.68.57/hbiInterface/game/hallLoading?platform=1
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1091: in function 'getCreateGroupGameConfig'
+
+[LUA-print] - "-----获取组局配置-----" = ""
+
+HTTPRequest[0x0004] - create request with url: http://101.37.68.57/hbiInterface/game/queryGameConfig?
+
+HTTPRequest[0x0005] - create request with url: http://101.37.68.57/hbiInterface/baseData/queryAnnouncements
+
+HTTPRequest[0x0006] - create request with url: http://101.37.68.57/hbiInterface/baseData/queryAnnouncements
+
+[LUA-print] 进入大厅
+
+[LUA-print] 
+********** 
+ccui.Widget:getSize was deprecated please use ccui.Widget:getContentSize instead.
+**********
+
+[LUA-print] 
+********** 
+ccui.Widget:getSize was deprecated please use ccui.Widget:getContentSize instead.
+**********
+
+[LUA-print] ++++++++++++++++++++++sp_head++++++++++++++++++++++++++++++++++++
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:875: in function 'getUrlPicture'
+
+[LUA-print] - "getUrlPicture" = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw/0"
+
+[LUA-print] getUnformatPic:	Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw
+
+HTTPRequest[0x0007] - create request with url: http://101.37.68.57/hbiInterface/game/queryScoreSection
+
+cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+
+[LUA-print] getHttp error	http://101.37.68.57/game-web//front/player/selectAgentCodeFromPlayId?playerId=10454&
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1306: in function 'callBack'
+
+[LUA-print] - "-----查询房卡数量-----" = {
+
+[LUA-print] -     "net" = {
+
+[LUA-print] -         "name"    = "completed"
+
+[LUA-print] -         "request" = userdata: 0x054e96a8
+
+[LUA-print] -     }
+
+[LUA-print] -     "netData" = "{"data":{"cardCount":8},"returnCode":"0"}"
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1317: in function 'callBack'
+
+[LUA-print] - "nima" = 8
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1318: in function 'callBack'
+
+[LUA-print] - "-----gameScene_02 cardCount 2-----" = 8
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:57: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----服务器返回的游戏列表-----" = {
+
+[LUA-print] -     "data" = {
+
+[LUA-print] -         1 = {
+
+[LUA-print] -             "code"        = "pdk"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 11
+
+[LUA-print] -             "isMainPage"  = 1
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "跑得快"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 13
+
+[LUA-print] -             "version"     = "1.0.27"
+
+[LUA-print] -         }
+
+[LUA-print] -         2 = {
+
+[LUA-print] -             "code"        = "szkawuxing"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 44
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "随州卡五星"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 7
+
+[LUA-print] -             "version"     = "1.0.17"
+
+[LUA-print] -         }
+
+[LUA-print] -         3 = {
+
+[LUA-print] -             "code"        = "xykawuxing"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 47
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "襄阳卡五星"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 10
+
+[LUA-print] -             "version"     = "1.0.15"
+
+[LUA-print] -         }
+
+[LUA-print] -         4 = {
+
+[LUA-print] -             "code"          = "zz_majiang2"
+
+[LUA-print] -             "danWinPoint"   = 0
+
+[LUA-print] -             "freeGamePhoto" = ""
+
+[LUA-print] -             "gameId"        = 48
+
+[LUA-print] -             "isMainPage"    = 0
+
+[LUA-print] -             "isShow"        = 0
+
+[LUA-print] -             "name"          = "二人转转"
+
+[LUA-print] -             "photo"         = ""
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 3
+
+[LUA-print] -             "version"       = "1.0.3"
+
+[LUA-print] -         }
+
+[LUA-print] -         5 = {
+
+[LUA-print] -             "code"          = "zz_majiang3"
+
+[LUA-print] -             "danWinPoint"   = 0
+
+[LUA-print] -             "freeGamePhoto" = ""
+
+[LUA-print] -             "gameId"        = 49
+
+[LUA-print] -             "isMainPage"    = 0
+
+[LUA-print] -             "isShow"        = 0
+
+[LUA-print] -             "name"          = "三人转转"
+
+[LUA-print] -             "photo"         = ""
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "remark"        = ""
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 3
+
+[LUA-print] -             "version"       = "1.0.3"
+
+[LUA-print] -         }
+
+[LUA-print] -         6 = {
+
+[LUA-print] -             "code"         = "ddz"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 1
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "斗地主"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 12
+
+[LUA-print] -             "version"      = "1.0.27"
+
+[LUA-print] -         }
+
+[LUA-print] -         7 = {
+
+[LUA-print] -             "code"          = "majiang"
+
+[LUA-print] -             "danLosePoint"  = -8
+
+[LUA-print] -             "danTiePoint"   = 0
+
+[LUA-print] -             "danWinPoint"   = 10
+
+[LUA-print] -             "freeGamePhoto" = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160530152142.jpg"
+
+[LUA-print] -             "gameId"        = 4
+
+[LUA-print] -             "isFreeGame"    = 1
+
+[LUA-print] -             "isMainPage"    = 1
+
+[LUA-print] -             "isShow"        = 1
+
+[LUA-print] -             "name"          = "血战到底"
+
+[LUA-print] -             "photo"         = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152134.jpg"
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "remark"        = ""
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 2
+
+[LUA-print] -             "version"       = "1.0.30"
+
+[LUA-print] -         }
+
+[LUA-print] -         8 = {
+
+[LUA-print] -             "code"         = "niuniu"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 5
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "斗牛"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 1
+
+[LUA-print] -             "version"      = "1.0.25"
+
+[LUA-print] -         }
+
+[LUA-print] -         9 = {
+
+[LUA-print] -             "code"        = "zhajinhua"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 7
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "炸金花"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 18
+
+[LUA-print] -             "version"     = "1.0.28"
+
+[LUA-print] -         }
+
+[LUA-print] -         10 = {
+
+[LUA-print] -             "code"         = "cs_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 40
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "长沙麻将"
+
+[LUA-print] -             "photo"        = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152134.jpg"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 4
+
+[LUA-print] -             "version"      = "1.0.14"
+
+[LUA-print] -         }
+
+[LUA-print] -         11 = {
+
+[LUA-print] -             "code"         = "zz_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 41
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "红中麻将"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 3
+
+[LUA-print] -             "version"      = "1.0.20"
+
+[LUA-print] -         }
+
+[LUA-print] -         12 = {
+
+[LUA-print] -             "code"         = "kawuxing"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 42
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "卡五星"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 6
+
+[LUA-print] -             "version"      = "1.0.15"
+
+[LUA-print] -         }
+
+[LUA-print] -         13 = {
+
+[LUA-print] -             "code"         = "gd_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 43
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "广东麻将"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 5
+
+[LUA-print] -             "version"      = "1.0.25"
+
+[LUA-print] -         }
+
+[LUA-print] -     }
+
+[LUA-print] -     "returnCode" = "0"
+
+[LUA-print] - }
+
+[LUA-print] 当前场景:hall.gameScene_02
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:66: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----获取游戏列表成功，生成游戏列表调用-----" = ""
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:72: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----获取游戏列表成功，检查重连-----" = ""
+
+[LUA-print] dump from: [string ".\hall/groudgamemanager.lua"]:411: in function 'requestGroupStatus'
+
+[LUA-print] - "-----重连操作，查询当前用户组局历史记录-----" = "http://101.37.68.57/hbiInterface/viewReganizeHistory   user:10454"
+
+HTTPRequest[0x0008] - create request with url: http://101.37.68.57/hbiInterface/viewReganizeHistory
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1109: in function 'callBack'
+
+[LUA-print] - "-----获取组局配置返回-----" = {
+
+[LUA-print] -     1 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 4
+
+[LUA-print] -         "gameName"   = "血战麻将"
+
+[LUA-print] -         "level"      = "60"
+
+[LUA-print] -     }
+
+[LUA-print] -     2 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 41
+
+[LUA-print] -         "gameName"   = "转转麻将"
+
+[LUA-print] -         "level"      = "61"
+
+[LUA-print] -     }
+
+[LUA-print] -     3 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 40
+
+[LUA-print] -         "gameName"   = "长沙麻将"
+
+[LUA-print] -         "level"      = "62"
+
+[LUA-print] -     }
+
+[LUA-print] -     4 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 43
+
+[LUA-print] -         "gameName"   = "广东麻将"
+
+[LUA-print] -         "level"      = "63"
+
+[LUA-print] -     }
+
+[LUA-print] -     5 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 42
+
+[LUA-print] -         "gameName"   = "卡五星"
+
+[LUA-print] -         "level"      = "64"
+
+[LUA-print] -     }
+
+[LUA-print] -     6 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 1
+
+[LUA-print] -         "gameName"   = "斗地主"
+
+[LUA-print] -         "level"      = "110"
+
+[LUA-print] -     }
+
+[LUA-print] -     7 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 11
+
+[LUA-print] -         "gameName"   = "跑得快"
+
+[LUA-print] -         "level"      = "160"
+
+[LUA-print] -     }
+
+[LUA-print] -     8 = {
+
+[LUA-print] -         "chouMa"     = 2000
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 5
+
+[LUA-print] -         "gameName"   = "斗牛"
+
+[LUA-print] -         "level"      = 10
+
+[LUA-print] -     }
+
+[LUA-print] -     9 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 44
+
+[LUA-print] -         "gameName"   = "随州卡五星"
+
+[LUA-print] -         "level"      = "65"
+
+[LUA-print] -     }
+
+[LUA-print] -     10 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 47
+
+[LUA-print] -         "gameName"   = "襄阳卡五星"
+
+[LUA-print] -         "level"      = "68"
+
+[LUA-print] -     }
+
+[LUA-print] -     11 = {
+
+[LUA-print] -         "chouMa"     = 2000
+
+[LUA-print] -         "diZhu"      = 10
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -             4 = *MAX NESTING*
+
+[LUA-print] -             5 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 7
+
+[LUA-print] -         "gameName"   = "诈金花"
+
+[LUA-print] -         "level"      = "155"
+
+[LUA-print] -     }
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/GameList.lua"]:46: in function 'loadGroupConfig'
+
+[LUA-print] - "loadGroupConfig" = {
+
+[LUA-print] -     10 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 5
+
+[LUA-print] -         "gameName"   = "斗牛"
+
+[LUA-print] -     }
+
+[LUA-print] -     60 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 4
+
+[LUA-print] -         "gameName"   = "血战到底"
+
+[LUA-print] -     }
+
+[LUA-print] -     61 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 41
+
+[LUA-print] -         "gameName"   = "红中麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     62 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 40
+
+[LUA-print] -         "gameName"   = "长沙麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     63 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 43
+
+[LUA-print] -         "gameName"   = "广东麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     64 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 42
+
+[LUA-print] -         "gameName"   = "卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     65 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 44
+
+[LUA-print] -         "gameName"   = "随州卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     68 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 47
+
+[LUA-print] -         "gameName"   = "襄阳卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     110 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 1
+
+[LUA-print] -         "gameName"   = "斗地主"
+
+[LUA-print] -     }
+
+[LUA-print] -     155 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -             4 = *MAX NESTING*
+
+[LUA-print] -             5 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 7
+
+[LUA-print] -         "gameName"   = "炸金花"
+
+[LUA-print] -     }
+
+[LUA-print] -     160 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 11
+
+[LUA-print] -         "gameName"   = "跑得快"
+
+[LUA-print] -     }
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1175: in function 'callBack'
+
+[LUA-print] - "-----查询走马灯-----" = {
+
+[LUA-print] - }
+
+[LUA-print] 0	
+
+[LUA-print] dump from: [string ".\hall/groudgamemanager.lua"]:366: in function 'callBack'
+
+[LUA-print] - "-----当前用户未结束的组局-----" = {
+
+[LUA-print] - }
+
+HTTPRequest[0x0001] - request removed
+
+HTTPRequest[0x0002] - request removed
+
+HTTPRequest[0x0003] - request removed
+
+HTTPRequest[0x0004] - request removed
+
+HTTPRequest[0x0005] - request removed
+
+HTTPRequest[0x0006] - request removed
+
+HTTPRequest[0x0007] - request removed
+
+HTTPRequest[0x0008] - request removed
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] -----------reConnect---1-------------------
+
+[LUA-print] scoket close zengtao
+
+[LUA-print] onclose---------------------
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] socket close
+
+[LUA-print] [INFO] HallServer._onDisConnect
+
+[LUA-print] oncloseed------
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] [INFO] HallServer._reconnect
+
+[LUA-print] [INFO] HallServer.connect(101.37.68.57, 4700)
+
+[LUA-print] [INFO] HallServer._onConnectd
+
+[LUA-print] NEO [%d] onConnected. %s	nil	SOCKET_TCP_CONNECTED
+
+[LUA-print] protocol_name--------------	HALL_PROTOCOL_EX	----PROTOCOL.HALL_PROTOCOL_EX--------	HALL_PROTOCOL_EX
+
+[LUA-print] dump from: [string ".\hall/HallServer.lua"]:34: in function 'onAfterConnected'
+
+[LUA-print] - "-----重连完成-----" = "protocol_name是HALL_PROTOCOL_EX"
+
+[LUA-print] -----Socket登录游戏大厅   HallServer:LoginGame--116---
+
+[LUA-print] dump from: [string ".\hall/HallServer.lua"]:98: in function 'LoginHall'
+
+[LUA-print] - "-----用户信息-----" = {
+
+[LUA-print] -     "cardCount"        = 8
+
+[LUA-print] -     "diamond"          = 0
+
+[LUA-print] -     "gold"             = 0
+
+[LUA-print] -     "icon_url"         = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw/0"
+
+[LUA-print] -     "landlord_section" = {
+
+[LUA-print] -         1 = {
+
+[LUA-print] -             "game_level"    = 100
+
+[LUA-print] -             "lower_section" = 150
+
+[LUA-print] -             "upper_section" = 600
+
+[LUA-print] -         }
+
+[LUA-print] -         2 = {
+
+[LUA-print] -             "game_level"    = 101
+
+[LUA-print] -             "lower_section" = 600
+
+[LUA-print] -             "upper_section" = 8000
+
+[LUA-print] -         }
+
+[LUA-print] -         3 = {
+
+[LUA-print] -             "game_level"    = 102
+
+[LUA-print] -             "lower_section" = 8000
+
+[LUA-print] -             "upper_section" = 200000
+
+[LUA-print] -         }
+
+[LUA-print] -         4 = {
+
+[LUA-print] -             "game_level"    = 103
+
+[LUA-print] -             "lower_section" = 200000
+
+[LUA-print] -         }
+
+[LUA-print] -     }
+
+[LUA-print] -     "nick"             = "周营"
+
+[LUA-print] -     "pLevel"           = 100
+
+[LUA-print] -     "phone"            = "930140"
+
+[LUA-print] -     "sex"              = 1
+
+[LUA-print] -     "type"             = "P"
+
+[LUA-print] -     "uid"              = 10454
+
+[LUA-print] -     "user_info"        = "{"sex":"1","photoUrl":"http:\/\/wx.qlogo.cn\/mmhead\/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw\/0","money":0,"nickName":"周营"}"
+
+[LUA-print] - }
+
+[LUA-print] build cmd:%x header lenght:%d	278	18
+
+[LUA-print] -----------------------------build packet body	nil
+
+[LUA-print] BUILD PACKET ==> %x(%s) [%s]	278	181	00 00 00 B1 42 59 00 01 00 00 01 16 00 00 00 00 00 00 00 00 28 D6 00 00 00 01 00 00 00 01 00 00 00 93 7B 22 73 65 78 22 3A 22 31 22 2C 22 70 68 6F 74 6F 55 72 6C 22 3A 22 68 74 74 70 3A 5C 2F 5C 2F 77 78 2E 71 6C 6F 67 6F 2E 63 6E 5C 2F 6D 6D 68 65 61 64 5C 2F 51 33 61 75 48 67 7A 77 7A 4D 37 72 41 79 4C 53 41 65 39 49 34 42 76 50 44 43 35 33 69 61 78 69 63 53 46 70 53 69 63 43 56 48 5A 78 67 54 71 4A 67 31 34 69 63 4B 6A 65 42 77 5C 2F 30 22 2C 22 6D 6F 6E 65 79 22 3A 30 2C 22 6E 69 63 6B 4E 61 6D 65 22 3A 22 E5 91 A8 E8 90 A5 22 7D 00 	181
+
+[LUA-print] 加密包体
+
+[LUA-print] decrypt success
+
+[LUA-print] #[PACK_PARSE] len:118 [00 00 00 72 42 59 00 00 00 00 02 01 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 FF FF 00 00 00 00 00 00 00 00 08 00 00 00 15 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 0D 00 00 00 00 00 00 00 0E 00 00 00 00 00 00 00 0F 00 00 00 00 00 00 00 10 00 00 00 00 00 00 00 28 00 00 00 00 00 00 00 29 00 00 00 00 ]
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	19	22	4	Ver	1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	23	26	4	Levelcount	0
+
+[LUA-print] [parsePacket_]array fixedLength:%d	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	27	26	0	Usercount	[]
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	27	30	4	Friendcount	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	31	34	4	Tid	0
+
+[LUA-print] read data string pos:%d	35
+
+[LUA-print] read data string len:%d	1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	35	39	5	Ip	
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	40	43	4	port	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	44	45	2	Serverlevel	-1
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	46	49	4	on_look_user	0
+
+[LUA-print] [%03d-%03d][%03d]%s=%s	50	53	4	type	0
+
+[LUA-print] buf len: 118 pos:54
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] NEO[====PACK====][%x][%s]
+==>%s	513	SVR_LOGIN_OK	{"Ver":1,"Usercount":[],"Serverlevel":-1,"Levelcount":0,"Ip":"","Friendcount":0,"Tid":0,"type":0,"cmd":513,"on_look_user":0,"port":0}
+
+[LUA-print] -----登录成功 mode[%d]-----	nil
+
+[LUA-print] 	-----Socket返回登录成功，进入大厅-----	true
+
+HTTPRequest[0x0009] - create request with url: http://101.37.68.57/hbiInterface/viewReganizeHistory
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] dump from: [string ".\hall/groudgamemanager.lua"]:442: in function 'callBack'
+
+[LUA-print] - "-----当前用户未结束的组局-----" = {
+
+[LUA-print] - }
+
+HTTPRequest[0x000a] - create request with url: http://101.37.68.57/game-web//front/player/selectAgentCodeFromPlayId?playerId=10454&
+
+HTTPRequest[0x000b] - create request with url: http://101.37.68.57/hbiInterface/roomCard/queryRoomCardCount
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:110: in function 'land'
+
+[LUA-print] - "-----获取游戏列表-----" = "http://101.37.68.57/hbiInterface/game/hallLoading"
+
+[LUA-print] content size:0
+
+HTTPRequest[0x000c] - create request with url: http://101.37.68.57/hbiInterface/game/hallLoading?platform=1
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1091: in function 'getCreateGroupGameConfig'
+
+[LUA-print] - "-----获取组局配置-----" = ""
+
+HTTPRequest[0x000d] - create request with url: http://101.37.68.57/hbiInterface/game/queryGameConfig?
+
+[LUA-print] hall exit
+
+HTTPRequest[0x000e] - create request with url: http://101.37.68.57/hbiInterface/baseData/queryAnnouncements
+
+HTTPRequest[0x000f] - create request with url: http://101.37.68.57/hbiInterface/baseData/queryAnnouncements
+
+[LUA-print] 进入大厅
+
+[LUA-print] 
+********** 
+ccui.Widget:getSize was deprecated please use ccui.Widget:getContentSize instead.
+**********
+
+[LUA-print] 
+********** 
+ccui.Widget:getSize was deprecated please use ccui.Widget:getContentSize instead.
+**********
+
+[LUA-print] ++++++++++++++++++++++sp_head++++++++++++++++++++++++++++++++++++
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:875: in function 'getUrlPicture'
+
+[LUA-print] - "getUrlPicture" = "http://wx.qlogo.cn/mmhead/Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw/0"
+
+[LUA-print] getUnformatPic:	Q3auHgzwzM7rAyLSAe9I4BvPDC53iaxicSFpSicCVHZxgTqJg14icKjeBw
+
+[LUA-print] getHttp error	http://101.37.68.57/game-web//front/player/selectAgentCodeFromPlayId?playerId=10454&
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+HTTPRequest[0x0009] - request removed
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+HTTPRequest[0x000a] - request removed
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:57: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----服务器返回的游戏列表-----" = {
+
+[LUA-print] -     "data" = {
+
+[LUA-print] -         1 = {
+
+[LUA-print] -             "code"        = "pdk"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 11
+
+[LUA-print] -             "isMainPage"  = 1
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "跑得快"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 13
+
+[LUA-print] -             "version"     = "1.0.27"
+
+[LUA-print] -         }
+
+[LUA-print] -         2 = {
+
+[LUA-print] -             "code"        = "szkawuxing"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 44
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "随州卡五星"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 7
+
+[LUA-print] -             "version"     = "1.0.17"
+
+[LUA-print] -         }
+
+[LUA-print] -         3 = {
+
+[LUA-print] -             "code"        = "xykawuxing"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 47
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "襄阳卡五星"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 10
+
+[LUA-print] -             "version"     = "1.0.15"
+
+[LUA-print] -         }
+
+[LUA-print] -         4 = {
+
+[LUA-print] -             "code"          = "zz_majiang2"
+
+[LUA-print] -             "danWinPoint"   = 0
+
+[LUA-print] -             "freeGamePhoto" = ""
+
+[LUA-print] -             "gameId"        = 48
+
+[LUA-print] -             "isMainPage"    = 0
+
+[LUA-print] -             "isShow"        = 0
+
+[LUA-print] -             "name"          = "二人转转"
+
+[LUA-print] -             "photo"         = ""
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 3
+
+[LUA-print] -             "version"       = "1.0.3"
+
+[LUA-print] -         }
+
+[LUA-print] -         5 = {
+
+[LUA-print] -             "code"          = "zz_majiang3"
+
+[LUA-print] -             "danWinPoint"   = 0
+
+[LUA-print] -             "freeGamePhoto" = ""
+
+[LUA-print] -             "gameId"        = 49
+
+[LUA-print] -             "isMainPage"    = 0
+
+[LUA-print] -             "isShow"        = 0
+
+[LUA-print] -             "name"          = "三人转转"
+
+[LUA-print] -             "photo"         = ""
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "remark"        = ""
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 3
+
+[LUA-print] -             "version"       = "1.0.3"
+
+[LUA-print] -         }
+
+[LUA-print] -         6 = {
+
+[LUA-print] -             "code"         = "ddz"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 1
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "斗地主"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 12
+
+[LUA-print] -             "version"      = "1.0.27"
+
+[LUA-print] -         }
+
+[LUA-print] -         7 = {
+
+[LUA-print] -             "code"          = "majiang"
+
+[LUA-print] -             "danLosePoint"  = -8
+
+[LUA-print] -             "danTiePoint"   = 0
+
+[LUA-print] -             "danWinPoint"   = 10
+
+[LUA-print] -             "freeGamePhoto" = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27freeGamePhoto20160530152142.jpg"
+
+[LUA-print] -             "gameId"        = 4
+
+[LUA-print] -             "isFreeGame"    = 1
+
+[LUA-print] -             "isMainPage"    = 1
+
+[LUA-print] -             "isShow"        = 1
+
+[LUA-print] -             "name"          = "血战到底"
+
+[LUA-print] -             "photo"         = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152134.jpg"
+
+[LUA-print] -             "playerCount"   = 0
+
+[LUA-print] -             "remark"        = ""
+
+[LUA-print] -             "status"        = "2"
+
+[LUA-print] -             "type"          = 2
+
+[LUA-print] -             "version"       = "1.0.30"
+
+[LUA-print] -         }
+
+[LUA-print] -         8 = {
+
+[LUA-print] -             "code"         = "niuniu"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 5
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "斗牛"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 1
+
+[LUA-print] -             "version"      = "1.0.25"
+
+[LUA-print] -         }
+
+[LUA-print] -         9 = {
+
+[LUA-print] -             "code"        = "zhajinhua"
+
+[LUA-print] -             "danWinPoint" = 0
+
+[LUA-print] -             "gameId"      = 7
+
+[LUA-print] -             "isMainPage"  = 0
+
+[LUA-print] -             "isShow"      = 1
+
+[LUA-print] -             "name"        = "炸金花"
+
+[LUA-print] -             "playerCount" = 0
+
+[LUA-print] -             "status"      = "2"
+
+[LUA-print] -             "type"        = 18
+
+[LUA-print] -             "version"     = "1.0.28"
+
+[LUA-print] -         }
+
+[LUA-print] -         10 = {
+
+[LUA-print] -             "code"         = "cs_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 40
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "长沙麻将"
+
+[LUA-print] -             "photo"        = "http://hbirdtest.oss-cn-shenzhen.aliyuncs.com/game27gamePhoto20160530152134.jpg"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 4
+
+[LUA-print] -             "version"      = "1.0.14"
+
+[LUA-print] -         }
+
+[LUA-print] -         11 = {
+
+[LUA-print] -             "code"         = "zz_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 41
+
+[LUA-print] -             "isMainPage"   = 1
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "红中麻将"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 3
+
+[LUA-print] -             "version"      = "1.0.20"
+
+[LUA-print] -         }
+
+[LUA-print] -         12 = {
+
+[LUA-print] -             "code"         = "kawuxing"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 42
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "卡五星"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 6
+
+[LUA-print] -             "version"      = "1.0.15"
+
+[LUA-print] -         }
+
+[LUA-print] -         13 = {
+
+[LUA-print] -             "code"         = "gd_majiang"
+
+[LUA-print] -             "danLosePoint" = -8
+
+[LUA-print] -             "danTiePoint"  = 0
+
+[LUA-print] -             "danWinPoint"  = 10
+
+[LUA-print] -             "gameId"       = 43
+
+[LUA-print] -             "isMainPage"   = 0
+
+[LUA-print] -             "isShow"       = 1
+
+[LUA-print] -             "name"         = "广东麻将"
+
+[LUA-print] -             "playerCount"  = 0
+
+[LUA-print] -             "status"       = "2"
+
+[LUA-print] -             "type"         = 5
+
+[LUA-print] -             "version"      = "1.0.25"
+
+[LUA-print] -         }
+
+[LUA-print] -     }
+
+[LUA-print] -     "returnCode" = "0"
+
+[LUA-print] - }
+
+[LUA-print] 当前场景:hall.gameScene_02
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:66: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----获取游戏列表成功，生成游戏列表调用-----" = ""
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] dump from: [string ".\hall/HallHttpNet.lua"]:72: in function <[string ".\hall/HallHttpNet.lua"]:36>
+
+[LUA-print] - "-----获取游戏列表成功，检查重连-----" = ""
+
+[LUA-print] dump from: [string ".\hall/groudgamemanager.lua"]:411: in function 'requestGroupStatus'
+
+[LUA-print] - "-----重连操作，查询当前用户组局历史记录-----" = "http://101.37.68.57/hbiInterface/viewReganizeHistory   user:10454"
+
+HTTPRequest[0x0010] - create request with url: http://101.37.68.57/hbiInterface/viewReganizeHistory
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1109: in function 'callBack'
+
+[LUA-print] - "-----获取组局配置返回-----" = {
+
+[LUA-print] -     1 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 4
+
+[LUA-print] -         "gameName"   = "血战麻将"
+
+[LUA-print] -         "level"      = "60"
+
+[LUA-print] -     }
+
+[LUA-print] -     2 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 41
+
+[LUA-print] -         "gameName"   = "转转麻将"
+
+[LUA-print] -         "level"      = "61"
+
+[LUA-print] -     }
+
+[LUA-print] -     3 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 40
+
+[LUA-print] -         "gameName"   = "长沙麻将"
+
+[LUA-print] -         "level"      = "62"
+
+[LUA-print] -     }
+
+[LUA-print] -     4 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 43
+
+[LUA-print] -         "gameName"   = "广东麻将"
+
+[LUA-print] -         "level"      = "63"
+
+[LUA-print] -     }
+
+[LUA-print] -     5 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 42
+
+[LUA-print] -         "gameName"   = "卡五星"
+
+[LUA-print] -         "level"      = "64"
+
+[LUA-print] -     }
+
+[LUA-print] -     6 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 1
+
+[LUA-print] -         "gameName"   = "斗地主"
+
+[LUA-print] -         "level"      = "110"
+
+[LUA-print] -     }
+
+[LUA-print] -     7 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 11
+
+[LUA-print] -         "gameName"   = "跑得快"
+
+[LUA-print] -         "level"      = "160"
+
+[LUA-print] -     }
+
+[LUA-print] -     8 = {
+
+[LUA-print] -         "chouMa"     = 2000
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 5
+
+[LUA-print] -         "gameName"   = "斗牛"
+
+[LUA-print] -         "level"      = 10
+
+[LUA-print] -     }
+
+[LUA-print] -     9 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 44
+
+[LUA-print] -         "gameName"   = "随州卡五星"
+
+[LUA-print] -         "level"      = "65"
+
+[LUA-print] -     }
+
+[LUA-print] -     10 = {
+
+[LUA-print] -         "chouMa"     = 1
+
+[LUA-print] -         "diZhu"      = 1
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 47
+
+[LUA-print] -         "gameName"   = "襄阳卡五星"
+
+[LUA-print] -         "level"      = "68"
+
+[LUA-print] -     }
+
+[LUA-print] -     11 = {
+
+[LUA-print] -         "chouMa"     = 2000
+
+[LUA-print] -         "diZhu"      = 10
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -             4 = *MAX NESTING*
+
+[LUA-print] -             5 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 7
+
+[LUA-print] -         "gameName"   = "诈金花"
+
+[LUA-print] -         "level"      = "155"
+
+[LUA-print] -     }
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/GameList.lua"]:46: in function 'loadGroupConfig'
+
+[LUA-print] - "loadGroupConfig" = {
+
+[LUA-print] -     10 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 5
+
+[LUA-print] -         "gameName"   = "斗牛"
+
+[LUA-print] -     }
+
+[LUA-print] -     60 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 4
+
+[LUA-print] -         "gameName"   = "血战到底"
+
+[LUA-print] -     }
+
+[LUA-print] -     61 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 41
+
+[LUA-print] -         "gameName"   = "红中麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     62 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 40
+
+[LUA-print] -         "gameName"   = "长沙麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     63 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 43
+
+[LUA-print] -         "gameName"   = "广东麻将"
+
+[LUA-print] -     }
+
+[LUA-print] -     64 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 42
+
+[LUA-print] -         "gameName"   = "卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     65 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 44
+
+[LUA-print] -         "gameName"   = "随州卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     68 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 47
+
+[LUA-print] -         "gameName"   = "襄阳卡五星"
+
+[LUA-print] -     }
+
+[LUA-print] -     110 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 1
+
+[LUA-print] -         "gameName"   = "斗地主"
+
+[LUA-print] -     }
+
+[LUA-print] -     155 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -             4 = *MAX NESTING*
+
+[LUA-print] -             5 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 7
+
+[LUA-print] -         "gameName"   = "炸金花"
+
+[LUA-print] -     }
+
+[LUA-print] -     160 = {
+
+[LUA-print] -         "gameConfig" = {
+
+[LUA-print] -             1 = *MAX NESTING*
+
+[LUA-print] -             2 = *MAX NESTING*
+
+[LUA-print] -             3 = *MAX NESTING*
+
+[LUA-print] -         }
+
+[LUA-print] -         "gameId"     = 11
+
+[LUA-print] -         "gameName"   = "跑得快"
+
+[LUA-print] -     }
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1175: in function 'callBack'
+
+[LUA-print] - "-----查询走马灯-----" = {
+
+[LUA-print] - }
+
+[LUA-print] 0	
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1306: in function 'callBack'
+
+[LUA-print] - "-----查询房卡数量-----" = {
+
+[LUA-print] -     "net" = {
+
+[LUA-print] -         "name"    = "completed"
+
+[LUA-print] -         "request" = userdata: 0x09c65330
+
+[LUA-print] -     }
+
+[LUA-print] -     "netData" = "{"data":{"cardCount":8},"returnCode":"0"}"
+
+[LUA-print] - }
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1317: in function 'callBack'
+
+[LUA-print] - "nima" = 8
+
+[LUA-print] dump from: [string ".\hall/gameScene_02.lua"]:1318: in function 'callBack'
+
+[LUA-print] - "-----gameScene_02 cardCount 2-----" = 8
+
+[LUA-print] dump from: [string ".\hall/groudgamemanager.lua"]:366: in function 'callBack'
+
+[LUA-print] - "-----当前用户未结束的组局-----" = {
+
+[LUA-print] - }
+
+HTTPRequest[0x000c] - request removed
+
+HTTPRequest[0x000d] - request removed
+
+HTTPRequest[0x000e] - request removed
+
+HTTPRequest[0x000f] - request removed
+
+HTTPRequest[0x000b] - request removed
+
+HTTPRequest[0x0010] - request removed
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+HTTPRequest[0x0011] - create request with url: http://101.37.68.57/hbiInterface/baseData/queryAnnouncements
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+Inner height <= scrollview height, it will be force sized!
+
+HTTPRequest[0x0011] - request removed
+
+if the index doesn't exist, it is an error
+
+touchesEnded or touchesCancel: size = 0
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] hall.gameScene_02	///////////////////////////////////////////
+
+[LUA-print] function: 0x049025e8	claickjhhh	floor	ccui.Layout	began
+
+[LUA-print] function: 0x049025e8	claickjhhh	floor	ccui.Layout	ended
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] dump from: [string ".\hall/common/HistoryLayer.lua"]:17: in function 'showHistoryLayer'
+
+[LUA-print] - "history test" = userdata: 0x048f4908
+
+HTTPRequest[0x0012] - create request with url: http://101.37.68.57/hbiInterface/freeGame/queryActivitiesByUserId
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] 0	
+
+[LUA-print] dump from: [string ".\hall/common/HistoryLayer.lua"]:143: in function 'callBack'
+
+[LUA-print] - "<var>" = {
+
+[LUA-print] -     "returnCode" = "1"
+
+[LUA-print] - }
+
+HTTPRequest[0x0012] - request removed
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] dismiss:	false	bDismiss:	nil
+
+[LUA-print] flag:	true	bChangeUser:	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:359: in function 'showSettings'
+
+[LUA-print] - "audioEngine test" = userdata: 0x048169a0
+
+[LUA-print] showSettings sound_slide	1
+
+[LUA-print] showSettings music_slide	1
+
+[LUA-print] dismiss:	false	bDismiss:	nil
+
+[LUA-print] flag:	false	bChangeUser:	nil
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] 1	sssssssssssssssssssss
+
+[LUA-print] show button state:3
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] GameCommon:playEffectSound	true
+
+[LUA-print] dump from: [string ".\hall/GameCommon.lua"]:1688: in function 'playEffectSound'
+
+[LUA-print] - "effect volume --" = 1
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] vvvvvvvvvvvvvvvvv
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_pdk.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_szkawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_xykawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_ddz.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_niuniu.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zhajinhua.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_cs_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_zz_majiang.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_kawuxing.png
+
+[LUA-print] pic	hall/hall_02/game_btn/bt_gd_majiang.png
+
+[LUA-print] 11	多少个游戏
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 66	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 33	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] 50	当前网络的延迟是
+
+[LUA-print] unschduleHeartBeat----------------------
+
+[LUA-print] hall exit
+

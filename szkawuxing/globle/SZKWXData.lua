@@ -1,0 +1,42 @@
+
+local SZKWXData = class("SZKWXData")
+
+SZKWX_GAME_PLANE = nil -- 游戏面板
+SZKWX_MANYOU_PLANE = nil -- 漫游面板
+SZKWX_CARD_POINTER = nil -- 牌指针
+SZKWX_CURRENT_CARDNODE = nil
+
+SZKWX_CONTROLLER = nil
+
+SZKWX_MY_USERINFO = {}
+SZKWX_SEAT_TABLE = {} -- key = uid
+SZKWX_USERINFO_TABLE = {} -- key = seat_id
+SZKWX_ROOM = {}
+SZKWX_ROOM.positionTable = {}
+SZKWX_ROOM.userInfos = SZKWX_USERINFO_TABLE
+SZKWX_GAMEINFO_TABLE = {} -- key = seat_id
+SZKWX_SEAT_TABLE_BY_TYPE = {} -- key == playerType
+SZKWX_ZHUANG_UID = nil -- 庄家id
+
+SZKWX_CONTROL_TABLE = nil --操作数据
+
+SZKWX_STATE = 0 -- 1 进入组局  2 开始组局 3 结束一局 4组局结束
+
+SZKWX_CHUPAI = 0 -- 0 不能出牌 2 必须等待操作 1 可以出牌
+
+SZKWX_GAME_STATUS = 0 -- 0 未开始 1 进行中
+
+SZKWX_LG_CARDS = {}
+
+SZKWX_TING = 0
+
+SZKWX_TOTAL_ROUNDS = nil
+SZKWX_ROUND = nil
+
+SZKWX_CARDS_LESS_INIT = 45
+SZKWX_REMAIN_CARDS_COUNT = SZKWX_CARDS_LESS_INIT
+
+SZKWX_ENDING_DATA = nil
+SZKWX_GROUP_ENDING_DATA = nil
+
+return SZKWXData

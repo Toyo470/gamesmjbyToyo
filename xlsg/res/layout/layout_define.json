@@ -1,0 +1,15 @@
+{
+	  "file_list": [
+	  		{"layout_style":"result.gitem_layout.GitemLayout","layout_name":"gitem" },
+			{"layout_style":"result.group_result_layout.GroupResultLayout","layout_name":"group_result","LocalZOrder":15 },
+			
+			{"layout_style":"zzroom.room_layout.ZZRoom_Layout","layout_name":"room" },
+			{"layout_style":"zzroom.room_base_layout.RoomBaseLayout","layout_name":"room_base" },
+			{"layout_style":"handleview.roomhandle_layout.HandleLayout","layout_name":"roomhandle" },
+			{"layout_style":"setting.setting_layout.SettingLayout","layout_name":"setting","LocalZOrder":11 },
+			{"layout_style":"tips.tips_layout.TipsLayout","layout_name":"tips","LocalZOrder":21 },
+			{"layout_style":"tips.tips_dissove_layout.TipsDissoveLayout","layout_name":"tips_dissove","LocalZOrder":20 },
+			{"layout_style":"card.card_layout.CardLayout","layout_name":"card" },
+			{"layout_style":"dialog.dialog_choose_layout.DialogChoose","layout_name":"dialog_choose","LocalZOrder":10}
+			]
+}

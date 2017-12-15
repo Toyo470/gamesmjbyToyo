@@ -1,0 +1,19 @@
+{
+    "marcos_define": [
+        {
+            "marcos_name": "HttpAddr",
+            "marcos_value": "http://120.76.133.49/hbiInterface",
+            "alias": "数据请求地址，windows是从这里拿，其他平台从app那边拿"
+        },
+        {
+            "marcos_name": "pHttpAddr",
+            "marcos_value": "/playerUser/getUserInfo4GameServer",
+            "alias": "玩家端数据请求地址"
+        },
+        {
+            "marcos_name": "cHttpAddr",
+            "marcos_value": "/compereUser/getUserInfo4GameServer",
+            "alias": "主播端数据请求地址"
+        }
+    ]
+}

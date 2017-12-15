@@ -1,0 +1,27 @@
+{
+	  "file_list": [
+	  		{"layout_style":"test.test_layout.Test_Layout","layout_name":"test" },
+	  		{"layout_style":"test.item_layout.Item_Layout","layout_name":"item" },
+	  		{"layout_style":"test.normal_layout.Normal_Layout","layout_name":"normal" },
+	  		{"layout_style":"test.listview_test_layout.ListView_Test_Layout","layout_name":"listview_test" },
+	  		{"layout_style":"test.list_item_layout.List_Item_Layout","layout_name":"list_item" },
+	  		
+	  		{"layout_style":"hall.hall_layout.HallLayout","layout_name":"Hall" },
+	  		{"layout_style":"hall.hall_item_layout.Hall_Item_Layout","layout_name":"hall_item" },
+			{"layout_style":"guide.guild_layout.GuildLayout","layout_name":"guide" },
+			{"layout_style":"tips.tips_layout.TipsLayout","layout_name":"tips" },
+			{"layout_style":"zzroom.room_layout.ZZRoom_Layout","layout_name":"room" },
+			{"layout_style":"tips.tips_dissove_layout.TipsDissoveLayout","layout_name":"tips_dissove" },
+			{"layout_style":"handleview.room_handle_view_layout.HandleViewLayout","layout_name":"room_handle_view" },
+			{"layout_style":"handleview.roomhandle_layout.HandleLayout","layout_name":"roomhandle" },
+			{"layout_style":"zzroom.room_card_layout.RoomCardLayout","layout_name":"room_card" },
+			{"layout_style":"handleview.room_handleresult_layout.RoomHandleResultLayout","layout_name":"room_handleresult" },
+			{"layout_style":"result.result_layout.ResultLayout","layout_name":"result" },
+			{"layout_style":"zzroom.room_base_layout.RoomBaseLayout","layout_name":"room_base" },
+
+			{"layout_style":"result.gitem_layout.GitemLayout","layout_name":"gitem" },
+			{"layout_style":"result.group_result_layout.GroupResultLayout","layout_name":"group_result" },
+			{"layout_style":"setting.setting_layout.SettingLayout","layout_name":"setting" },
+			{"layout_style":"result.result_effect_layout.ResultEffectLayout","layout_name":"result_effect" }
+			]
+}

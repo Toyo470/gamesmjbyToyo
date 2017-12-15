@@ -1,0 +1,42 @@
+
+local XYKWXData = class("XYKWXData")
+
+XYKWX_GAME_PLANE = nil -- 游戏面板
+XYKWX_MANYOU_PLANE = nil -- 漫游面板
+XYKWX_CARD_POINTER = nil -- 牌指针
+XYKWX_CURRENT_CARDNODE = nil
+
+XYKWX_CONTROLLER = nil
+
+XYKWX_MY_USERINFO = {}
+XYKWX_SEAT_TABLE = {} -- key = uid
+XYKWX_USERINFO_TABLE = {} -- key = seat_id
+XYKWX_ROOM = {}
+XYKWX_ROOM.positionTable = {}
+XYKWX_ROOM.userInfos = XYKWX_USERINFO_TABLE
+XYKWX_GAMEINFO_TABLE = {} -- key = seat_id
+XYKWX_SEAT_TABLE_BY_TYPE = {} -- key == playerType
+XYKWX_ZHUANG_UID = nil -- 庄家id
+
+XYKWX_CONTROL_TABLE = nil --操作数据
+
+XYKWX_STATE = 0 -- 1 进入组局  2 开始组局 3 结束一局 4组局结束
+
+XYKWX_CHUPAI = 0 -- 0 不能出牌 2 必须等待操作 1 可以出牌
+
+XYKWX_GAME_STATUS = 0 -- 0 未开始 1 进行中
+
+XYKWX_LG_CARDS = {}
+
+XYKWX_TING = 0
+
+XYKWX_TOTAL_ROUNDS = nil
+XYKWX_ROUND = nil
+
+XYKWX_CARDS_LESS_INIT = 45
+XYKWX_REMAIN_CARDS_COUNT = XYKWX_CARDS_LESS_INIT
+
+XYKWX_ENDING_DATA = nil
+XYKWX_GROUP_ENDING_DATA = nil
+
+return XYKWXData

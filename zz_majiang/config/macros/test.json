@@ -1,0 +1,9 @@
+{
+    "marcos_define": [
+        {
+            "marcos_name": "test_flag",
+            "marcos_value":1,
+            "alias": "测试开关"
+        }
+    ]
+}

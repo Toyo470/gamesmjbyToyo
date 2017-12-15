@@ -1,0 +1,17 @@
+name_key_dict = {
+["account_diamond"]=10002,
+["marcos_alias"]=10014,
+["account_gold"]=10003,
+["marcos_name"]=10012,
+["account_score"]=10005,
+["account_data"]=10000,
+["marcos_value"]=10013,
+["account_sex"]=10010,
+["account_name"]=10001,
+["account_chip"]=10008,
+["marcos_define"]=10011,
+["account_iconrul"]=10009,
+["account_losetimes"]=10007,
+["account_id"]=10004,
+["account_wintimes"]=10006,
+}

@@ -1,0 +1,53 @@
+﻿@CHARSET "UTF-8";
+
+body{
+	font-family: '微软雅黑';
+    padding: 1rem;
+    background: -webkit-linear-gradient(top,#fdf7e7,#f9e7ba);
+	background: -moz-linear-gradient(top,#fdf7e7,#f9e7ba);
+}
+
+.btn-tabs{
+	width: 100%;
+    overflow: auto;
+}
+
+.btn-tabs p{
+	width: 146rem;
+}
+
+.btn-lg{
+	width: 11rem;
+	background: -webkit-linear-gradient(top,#aaa,#868686 95%,#fff);
+	background: -moz-linear-gradient(top,#aaa,#868686 95%,#fff);
+	border: 2px solid #737373;
+	box-shadow: 0 1px 1px #fff inset;
+	text-shadow: 0 0 2px #a95800,0 0 2px #a95800,0 0 4px #a95800,0 0 2px #a95800,0 0 2px #a95800,0 0 4px #a95800;
+	font-weight: bolder;
+	color: #f5e7d8;
+	padding: 10px 0;
+}
+
+.btn-lg:active,
+.btn-lg:hover,
+.btn-lg:focus,
+.btn-lg.active{
+	background: -webkit-linear-gradient(top,#ff6e5a,#dc3232 95%,#fff);
+	background: -moz-linear-gradient(top,#ff6e5a,#dc3232 95%,#fff);
+	color: #f5e7d8;
+	border: 2px solid #a0645a;
+	box-shadow: 0 1px 1px #ffb2a5 inset;
+}
+
+.tab-content{
+	color: #a95800;
+}
+
+.lead{
+	font-weight: bold;
+}
+
+img{
+	width: 90%;
+    margin-bottom: 1rem;
+}

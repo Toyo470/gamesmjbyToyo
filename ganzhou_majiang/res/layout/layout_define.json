@@ -1,0 +1,35 @@
+{
+	  "file_list": [
+	  		{"layout_style":"test.test_layout.Test_Layout","layout_name":"test" },
+	  		{"layout_style":"test.item_layout.Item_Layout","layout_name":"item" },
+	  		{"layout_style":"test.normal_layout.Normal_Layout","layout_name":"normal" },
+	  		{"layout_style":"test.listview_test_layout.ListView_Test_Layout","layout_name":"listview_test" },
+	  		{"layout_style":"test.list_item_layout.List_Item_Layout","layout_name":"list_item" },
+	  		
+	  		{"layout_style":"hall.hall_layout.HallLayout","layout_name":"Hall" },
+	  		{"layout_style":"hall.hall_item_layout.Hall_Item_Layout","layout_name":"hall_item" },
+			{"layout_style":"guide.guild_layout.GuildLayout","layout_name":"guide" },
+			{"layout_style":"tips.tips_layout.TipsLayout","layout_name":"tips","LocalZOrder":17 },
+			{"layout_style":"tips.tips_dissove_layout.TipsDissoveLayout","layout_name":"tips_dissove" ,"LocalZOrder":23 },
+			{"layout_style":"handleview.room_handle_view_layout.HandleViewLayout","layout_name":"room_handle_view","LocalZOrder":11 },
+			{"layout_style":"handleview.roomhandle_layout.HandleLayout","layout_name":"roomhandle","LocalZOrder":10},
+			
+			{"layout_style":"handleview.room_handleresult_layout.RoomHandleResultLayout","layout_name":"room_handleresult","LocalZOrder":14 },
+			{"layout_style":"result.result_layout.ResultLayout","layout_name":"result","LocalZOrder":16 },
+			{"layout_style":"zzroom.room_base_layout.RoomBaseLayout","layout_name":"room_base" ,"LocalZOrder":1},
+
+			{"layout_style":"result.gitem_layout.GitemLayout","layout_name":"gitem" },
+			{"layout_style":"result.group_result_layout.GroupResultLayout","layout_name":"group_result","LocalZOrder":15  },
+			{"layout_style":"setting.setting_layout.SettingLayout","layout_name":"setting","LocalZOrder":22 },
+			{"layout_style":"result.result_effect_layout.ResultEffectLayout","layout_name":"result_effect" ,"LocalZOrder":16},
+			{"layout_style":"player.player_layout.PlayerLayout","layout_name":"player","LocalZOrder":2 },
+			{"layout_style":"cardhandle.room_card_layout.RoomCardLayout","layout_name":"room_card" ,"LocalZOrder":13},
+			{"layout_style":"seabase.seabase_layout.SeaBaseLayout","layout_name":"seabase","LocalZOrder":15  },
+			{"layout_style":"gangchoose.gangchoose_layout.GangChooseLayout","layout_name":"gangchoose","LocalZOrder":15  },
+			{"layout_style":"effect.start_effect_layout.StartEffectLayout","layout_name":"start_effect","LocalZOrder":30  },
+			{"layout_style":"result.jing_result_layout.JingResultLayout","layout_name":"jing_result","LocalZOrder":30  },
+			{"layout_style":"effect.end_effect_layout.EndEffectLayout","layout_name":"end_effect","LocalZOrder":30},
+			{"layout_style":"result.round_result_layout.RoundResultLayout","layout_name":"round_result","LocalZOrder":30  }
+			
+			]
+}

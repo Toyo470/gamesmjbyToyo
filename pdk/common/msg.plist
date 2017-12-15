@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ddz/common/txt_buyao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{474,0},{112,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,47}</string>
+			</dict>
+			<key>ddz/common/txt_illegal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{249,0},{225,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{225,29}</string>
+			</dict>
+			<key>ddz/common/txt_no_match.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{249,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{249,29}</string>
+			</dict>
+			<key>ddz/common/txt_pass.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{586,0},{58,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,46}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>msg.png</string>
+			<key>realTextureFileName</key>
+			<string>msg.png</string>
+			<key>size</key>
+			<string>{1024,64}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>64</integer>
+		</dict>
+	</dict>
+</plist>

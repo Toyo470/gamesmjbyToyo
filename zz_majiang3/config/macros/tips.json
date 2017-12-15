@@ -1,0 +1,14 @@
+{
+    "marcos_define": [
+        {"marcos_name": "go_hall_title","marcos_value":"返回大厅","alias": "测试开关"},
+        {"marcos_name": "go_hall_content","marcos_value":"返回大厅您的房间仍会保留喔!","alias": "测试开关"},
+        {"marcos_name": "dissolve_title","marcos_value":"解散房间","alias": "测试开关"},
+        {"marcos_name": "dissolve_content","marcos_value":"  如果是在第一局结束前解散房间，\n则不扣房卡，是否确定解散","alias": "测试开关"},
+        {"marcos_name": "dissolve_content_ex","marcos_value":"确定要申请解散房间吗？","alias": "测试开关"},
+        {"marcos_name": "dissolve_room","marcos_value":"由于玩家【%s】拒绝，房间解散失败，游戏继续","alias": "测试开关"},
+        {"marcos_name": "tip","marcos_value":"提示","alias": "测试开关"},
+        {"marcos_name": "dissolve_room_request","marcos_value":"玩家【%s】申请解散房间，\n请问是否同意？(超过5分钟未作出选择，\n则默认同意)","alias": "测试开关"},
+        {"marcos_name": "dissolve_wait","marcos_value":"【%s】等待选择","alias": "测试开关"},
+        {"marcos_name": "dissolve_agree","marcos_value":"【%s】已同意","alias": "测试开关"}
+    ]
+}

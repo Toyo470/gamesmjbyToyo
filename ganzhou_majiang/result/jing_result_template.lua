@@ -1,0 +1,50 @@
+
+mrequire("base.layout_base")
+mrequire("mymodules")
+jing_result_Template = class("jing_result_Template", base.layout_base.LayoutBase)
+
+function jing_result_Template:_do_prepare_init(other_index)
+	other_index = other_index or ""
+	local ui_manager = mymodules.manager:get_control_manager("ui")
+	self.jing_result_up_fj_text = ui_manager:register_widget_object("jing_result_up_fj_text",other_index)
+	self.jing_result_down_fj_image = ui_manager:register_widget_object("jing_result_down_fj_image",other_index)
+	self.jing_result_up_fj_image = ui_manager:register_widget_object("jing_result_up_fj_image",other_index)
+	self.jing_result_up_bg = ui_manager:register_widget_object("jing_result_up_bg",other_index)
+	self.jing_result_down_zj_text = ui_manager:register_widget_object("jing_result_down_zj_text",other_index)
+	self.jing_result_left_info_text1 = ui_manager:register_widget_object("jing_result_left_info_text1",other_index)
+	self.jing_result_up_zj_text = ui_manager:register_widget_object("jing_result_up_zj_text",other_index)
+	self.jing_result_left_fj_text = ui_manager:register_widget_object("jing_result_left_fj_text",other_index)
+	self.jing_result_right_zj_image = ui_manager:register_widget_object("jing_result_right_zj_image",other_index)
+	self.jing_result_left_zj_bg = ui_manager:register_widget_object("jing_result_left_zj_bg",other_index)
+	self.jing_result_right_bg = ui_manager:register_widget_object("jing_result_right_bg",other_index)
+	self.jing_result_right_zj_text = ui_manager:register_widget_object("jing_result_right_zj_text",other_index)
+	self.jing_result_down_fj_text = ui_manager:register_widget_object("jing_result_down_fj_text",other_index)
+	self.jing_result_left_fj_bg = ui_manager:register_widget_object("jing_result_left_fj_bg",other_index)
+	self.jing_result_up_zj_bg = ui_manager:register_widget_object("jing_result_up_zj_bg",other_index)
+	self.jing_result_line1 = ui_manager:register_widget_object("jing_result_line1",other_index)
+	self.jing_result_left_bg = ui_manager:register_widget_object("jing_result_left_bg",other_index)
+	self.jing_result_line = ui_manager:register_widget_object("jing_result_line",other_index)
+	self.jing_result_right_fj_text = ui_manager:register_widget_object("jing_result_right_fj_text",other_index)
+	self.jing_result_down_fj_bg = ui_manager:register_widget_object("jing_result_down_fj_bg",other_index)
+	self.jing_result_left_zj_text = ui_manager:register_widget_object("jing_result_left_zj_text",other_index)
+	self.jing_result_line111 = ui_manager:register_widget_object("jing_result_line111",other_index)
+	self.jing_result_right_fj_image = ui_manager:register_widget_object("jing_result_right_fj_image",other_index)
+	self.jing_result_left_info_text = ui_manager:register_widget_object("jing_result_left_info_text",other_index)
+	self.jing_result_up_zj_image = ui_manager:register_widget_object("jing_result_up_zj_image",other_index)
+	self.jing_result_right_fj_bg = ui_manager:register_widget_object("jing_result_right_fj_bg",other_index)
+	self.jing_result_left_zj_image = ui_manager:register_widget_object("jing_result_left_zj_image",other_index)
+	self.jing_result_down_zj_bg = ui_manager:register_widget_object("jing_result_down_zj_bg",other_index)
+	self.jing_result_down_bg = ui_manager:register_widget_object("jing_result_down_bg",other_index)
+	self.jing_result_right_info_text = ui_manager:register_widget_object("jing_result_right_info_text",other_index)
+	self.jing_result_line11 = ui_manager:register_widget_object("jing_result_line11",other_index)
+	self.jing_result_right_zj_bg = ui_manager:register_widget_object("jing_result_right_zj_bg",other_index)
+	self.jing_result_down_info_text = ui_manager:register_widget_object("jing_result_down_info_text",other_index)
+	self.jing_result_up_fj_bg = ui_manager:register_widget_object("jing_result_up_fj_bg",other_index)
+	self.jing_result_left_fj_image = ui_manager:register_widget_object("jing_result_left_fj_image",other_index)
+	self.jing_result_down_zj_image = ui_manager:register_widget_object("jing_result_down_zj_image",other_index)
+
+
+end
+
+
+

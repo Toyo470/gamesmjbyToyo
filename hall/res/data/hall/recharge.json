@@ -1,0 +1,10 @@
+{
+    "goods":[
+        {"id":1, "name":"房卡", "price":10, "amount":5},
+        {"id":2, "name":"房卡", "price":20, "amount":10},
+        {"id":3, "name":"房卡", "price":50, "amount":25},
+        {"id":4, "name":"房卡", "price":100, "amount":50},
+        {"id":5, "name":"房卡", "price":200, "amount":100},
+        {"id":6, "name":"房卡", "price":500, "amount":250}
+    ]
+}

@@ -1,0 +1,95 @@
+fonts    字体
+image    图片资源
+
+card     麻将牌面绘制逻辑模块                                           *麻将牌绘制文件
+
+globle   变量命名备注
+{--TDHMJData                                                            *通讯定义文件
+--TDHDefine 碰杠胡定义                                                  *通讯定义文件
+}   
+
+handle   与服务器通讯相关
+{--TDHMJPROTOCOL    协议定义                                            *通讯定义文件
+--TDHMJReceiveHandle   处理服务器发来的信息并做一系列操作              **游戏逻辑核心文件
+--TDHSendHandle    发送信息至服务器                                     
+}
+
+operator   麻将牌操作相关    
+{--centerPlane    当前玩家指针
+
+--controlplane   接受bit.band(controlType, CONTROL_TYPE_?)          **游戏逻辑核心文件        信号进行碰杠胡按钮及特效绘制，创建按钮监听事件。
+
+--gameplane     当前绘制“层”的切换及层上内容的绘制                     **游戏绘制核心文件
+
+--inhandplane   手牌处理，调用card绘制                                 **游戏逻辑核心文件
+
+--lefthand      已碰杠的（左手边的）牌的处理                           **麻将绘制核心文件
+ 
+--outhandplane  出牌绘制（出牌显示层级处理）
+       
+--playerplane   综合显示处理层                                         **麻将绘制核心文件
+
+--userinfoplane 玩家信息层
+}
+
+utils    杂项
+{--voiceutils 声音相关
+--cardutils  牌相关，通过某张牌判断碰杠吃晾喜的全部牌值                **麻将牌绘制核心文件
+}      
+            
+GameController 通过gamecontroller的请求实际上指向TDHMJSenHandle，因此作用也为发送信息至服务器
+gameScene             游戏场景绘制                                     **场景绘制核心文件
+
+
+结算类
+{
+GroupEndingplayer     组局结束画面
+result_effect_layout  得分画面特效
+RoundEndingLayer      回合结束画面  
+}              
+
+
+userinfo    centerplane
+   |           |
+   |___________|
+        |
+        |
+        |
+游戏主场景GameScene---------回合结束场景RoundEnding--------游戏结束结算场景GameResult + _item 
+        |
+        |
+        |
+        |
+  TDHReceiveHandle负责处理服务器发来的信息绘制场景---------------------------
+        |                                                                    |
+        |                                                                 服务器
+    GamePlane                                                                |
+        |                                                                    |
+    PlayerPlane---------GameController---------TDHMJSenHandle --------------- 
+
+
+
+用户碰杠胡晾喜过操作：
+
+  服务器发来碰杠消息TDHMJReceiveHandle:SVR_NORMAL_OPERATE               ------>
+
+  通过CardUtils:getControlTable(pack, handleCard)解析碰杠               ------>
+
+  中转处gamePlaneOperator:showControlPlane                              ------>
+
+  综合中转处playerPlaneOperator:showControlPlane                        ------>
+
+  客户端绘制碰杠controlplane  ----->  用户选择碰杠操作controlplane      ------>
+
+  gamecontroller  ------->   操作发至服务器TDHMJSenderHandler           ------>
+
+  服务器对客户端进行广播TDHMJReceiveHandle:SVR_PLAYER_USER_BROADCAST    ------>
+
+  客户端绘制碰杠后的场景lefthandplane
+
+
+
+
+
+
+  重连：核心函数TDHMJReceiveHandle:SVR_REGET_ROOM
